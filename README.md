@@ -1,2 +1,2 @@
-# Aplica-o-de-Algoritmos-Gen-tico
+# Aplicação de Algoritmos Genético
 Apenas uma aplicação prática do conceito de algoritmo genético.
